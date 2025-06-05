@@ -26,6 +26,6 @@ This project demonstrates the basic structure and behavior of blockchain blocks 
 3. Run the main class:
  java Block
 
-*Sample output*
+## Sample Output
 Block t hash: 0000ac5100c4b3e2d3d895cd7b457ba7f336fa9bdae68b2e9f8bb14673f4e3bb
 Block t+1 hash: 0000f19dd5d0b77a2f7b6caa766bf553404b7eef5913d525bf883e01408377ad
